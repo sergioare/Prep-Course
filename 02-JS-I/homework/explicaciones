@@ -1,0 +1,16 @@
+1. Variables: te permite almacenar un valor de algo para usar a lo largo del desarrollo, bien sea un valor dinámico o estático.
+
+2. Strings: es un tipo de dato en forma de texto, pueden ser palabras o números siempre y cuando se almacenen entre comillas "". 
+
+3. Funciones: una función es una acción que se ejecuta a través de un conjunto de variables o códigos, facilitando su uso y evitando 
+            que repitamos códigos. De esta manera, puedes usar un código muchas veces ya que los guarda y luego los puedes ejecutar a lo largo del desarrollo las veces que quieras. Se utiliza una función colocando el nombre de la función y paréntesis. 
+
+            a) Argumentos: Son los que permiten declarar una variable dentro de la función, para que al usar la función le arroje un valor, este argumento se identifica entre paréntesis () después del nombre que le asignamos a dicha función. También, puedes agregar distintos argumentos dentro de una función colocando una coma entre los argumentos que quieras usar.
+            b) Return: es un comando que se usa dentro de la función para que retorne el valor que queremos, en caso contrario la función al invocarla retornaría en undefined. Cabe aclarar, que cuando escribes return la ejecución de la función va a terminar y lo que escribas debajo no lo va a leer. 
+
+4. Declaración if: el if es un condicional que nos permite ejecutar códigos según las condiciones (true, false) que le pongamos a la función, entonces el código que tengamos dentro de las llaves {} se va a ejecutar solo si esa condición es verdadera (las condiciones las usamos con operadores), en caso de que no sea verdadera, se ejecutará el siguiente código a través del comando else que indica que si no pasó el código de arriba ejecuta el siguiente. De acuerdo a esto, cuando queremos usar más de una condición a ejecutar utilizamos else if. En ese orden de ideas, iría primero If () , {variable}, else if () {variable}, else {variable}.
+
+5. Valores booleanos: son un tipo de datos que en su origen se usaba con números binarios (0,1) para realizar el código, esto quiere decir que hay dos opciones, activar o desactivar, en el caso de JS se usa para describri verdadero o falso. (true, false) y sirve como vimos en las declaraciones if, para que se ejecute un código o el otro. 
+        
+            
+
