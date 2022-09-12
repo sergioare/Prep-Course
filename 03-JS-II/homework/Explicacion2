@@ -1,0 +1,12 @@
+// explicación para los conceptos For y operadores lógicos &&, ||, !
+
+// 1. For: Es un bucle que nos permite evaluar una expresión y repetirla una y otra vez, 
+//         *hasta que le asignamos una condición que la haga detener de esta manera evitamos un 
+//         * bucle infinito. Entonces, primero declaramos la variable, luego la condición y por último 
+//         * incrementamos la variable para evitar de igual modo un bucle infinito. 
+//         * Ej: For (let i = 0 ; i < 10 ; i++){ console.log (i) ;}
+
+
+// 2: &&, ||, !: son operadores lógicos que nos permiten evaluar si las expresiones que estamos comparando
+//              *son falsas o verdaderas, de acuerdo a la tabla de la verdad. En el caso del operador NOT (!)
+//              * nos permitirá devolver el valor opuesto al resultado booleano.  
