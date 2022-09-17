@@ -1,0 +1,3 @@
+// Arrays: Es una agrupación de elementos en una misma variable, los cuales tienen una posición 
+//         *y podemos acceder a esa colección de datos mediante su posición/índice, se pueden definir con [].
+//         * Puede ser cualquier tipo de datos.
