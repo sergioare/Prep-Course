@@ -1,0 +1,25 @@
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos.
+
+// 1. Objetos: Es un contenedor de datos que nos permite guardar cualquier tipo de dato, enfocandose en una sola cosa 
+//              y guardando la información de esta, mediante la asignación de Key-Value siendo estos el identificador 
+//              y el valor a guardar respectivamente. 
+
+
+// 2. Propiedades: Las propiedades de un objeto son un atributo con nombre de un objeto, que va a entrar a definir una 
+//                  de las características del mismo objeto, del mismo modo, estas pueden estar sujetas a cambio según 
+//                  lo necesiten o también se pueden eliminar con delete. 
+
+
+// 3. Métodos: Los métodos son las acciones como por ejemplo una función que pertenece a un objeto.
+
+// 4. Bucle for...in : Nos va a permitir recorrer o iterar el objeto en todas las claves con el fin de acceder al valor    
+//                      que está asociado a esta clave. 
+
+
+// 5. Notación de puntos vs Notación de corchetes: Son las dos formas para acceder a las propiedades, la notación de 
+//                                                  puntos es la más facil de usar (se accede con el nombre del objeto
+//                                                  + "." + nombre de la propiedad"), y la de corchetes será igual que    
+//                                                  en los arrays. Sin embargo, la notación de los corchetes nos va a
+//                                                  permitir jugar con las variables y asignaciones que se encuentren   
+//                                                  dentro del objeto. El dot notation debe ser tal cual está la 
+//                                                  propiedad, no se puede jugar con las variables. 
