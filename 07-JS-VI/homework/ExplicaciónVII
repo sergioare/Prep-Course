@@ -1,0 +1,3 @@
+// Funciones Callback (cb): es la capacidad de pasar una función como argumento a 
+//                          otra función y la podrémos invocar con los nuevos parámetros
+//                          para realizar algun tipo de acción. 

@@ -1,0 +1,13 @@
+// Prototype: cualquier cosa que usemos en JS es un prototipo que tiene un 
+//            objeto, y cada objeto que creemos tiene sus propiedades. El 
+//            prototype sirve de referencia para buscar una propiedad que 
+//            no se haya en un objeto, evitando la repetición de métodos.
+//            Es decir, que todo lo que sean métodos del objeto que queremos
+//            construir van a ir en el Prototype.  
+
+// Constructors (de clases): las clases son como plantillas para crear objetos
+//                           los constructors en las clases se usan cuando un    
+//                           objeto posee unas propiedades identicas las cuales
+//                           caracterizan al objeto y se replican a los nuevos 
+//                           datos. Por esta razón, todo lo que sean propiedades
+//                           del objeto que queramos construir van en el constructor. 
